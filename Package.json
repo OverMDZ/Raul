@@ -1,0 +1,14 @@
+{
+  "name": "demo_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tests": "cypress run --spec C:/Users/raulc/Desktop/Curso/Demo_Cypress/cypress/e2e/smoketestbanco.cy.js --browser chrome"
+  },
+  "author": "Raul",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.3"
+  }
+}
