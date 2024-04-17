@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de cómo podría lucir un archivo README para un proyecto de QA tester utilizando Cypress con JavaScript:
-
----
-
 # Proyecto de QA Tester con Cypress
 
 Este proyecto utiliza Cypress para automatizar pruebas de calidad (QA) en una aplicación web utilizando JavaScript.
