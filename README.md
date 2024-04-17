@@ -33,7 +33,7 @@ Para ejecutar las pruebas de Cypress, sigue estos pasos:
 1. Abre Cypress:
 
     ```bash
-    npm run cypress:open
+    npm run cypress
     ```
 
 2. Una vez que Cypress esté abierto, selecciona la prueba que deseas ejecutar.
