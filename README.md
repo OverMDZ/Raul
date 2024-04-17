@@ -33,19 +33,19 @@ Para ejecutar las pruebas de Cypress, sigue estos pasos:
 1. Abre Cypress:
 
     ```bash
-    npm run cypress
+    npx cypress open
     ```
 
 2. Una vez que Cypress esté abierto, selecciona la prueba que deseas ejecutar.
 
 ## Estructura del Proyecto
 
-- **cypress/integration**: Contiene los archivos de prueba escritos en Cypress.
+- **Demo_Cypress/Cypress**: Contiene los archivos de prueba escritos en Cypress.
 - **cypress/support**: Contiene archivos de soporte como comandos personalizados, configuraciones, etc.
 
 ## Escritura de Pruebas
 
-Puedes escribir tus propias pruebas en archivos de especificación ubicados en `cypress/integration`. Cypress utiliza una sintaxis de flujo para escribir pruebas.
+Puedes escribir tus propias pruebas en archivos de especificación ubicados en `DEMO_CYPRESS/CYPRESS`. Cypress utiliza una sintaxis de flujo para escribir pruebas.
 
 ```javascript
 describe('Nombre de la Suite', function() {
