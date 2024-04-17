@@ -11,7 +11,7 @@ Asegúrate de tener instalado Node.js en tu sistema. Puedes descargarlo desde [a
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_proyecto.git
+    git clone https://github.com/OverMDZ/Raul
     ```
 
 2. Navega al directorio del proyecto:
